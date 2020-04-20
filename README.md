@@ -1,10 +1,10 @@
 # Dialogue Act Recognition 
 
 
-In this project, I worked on creating a classification model for the task of Dialogue Act Recognition. A dialogue act helps in determining the function of a particular utterance in a dialogue and is thus extremely useful for spoken language understanding. 
+This repository aims to create a classification model for the task of Dialogue Act Recognition. A dialogue act helps in determining the function of a particular utterance in a dialogue and is thus extremely useful for spoken language understanding. 
 
 
-## DataSet
+## Dataset
 
 The Switchboard Dialog Acts corpus was used for this task which consists of telephone speech which is annotated with dialog act tags. Along with this we also had the raw transcriptions corresponding to each sound file. 
 
