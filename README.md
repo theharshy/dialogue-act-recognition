@@ -1,7 +1,7 @@
 # Dialogue Act Recognition 
 
 
-This repository aims to create a classification model for the task of Dialogue Act Recognition. A dialogue act helps in determining the function of a particular utterance in a dialogue and is thus extremely useful for spoken language understanding. 
+This repository aims to create a classification model for the task of Dialogue Act Recognition. In linguistics and in particular in natural language understanding, a dialog act is an utterance, in the context of a conversational dialog, that serves a function in the dialog. Types of dialog acts include a question, a statement, or a request for action. It helps in determining the function of a particular utterance in a dialogue and is thus extremely useful for spoken language understanding. 
 
 
 ## Dataset
